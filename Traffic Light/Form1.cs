@@ -13,7 +13,8 @@ namespace Traffic_Light
     public partial class Form1 : Form
     {
         public Form1()
-        {
+        {// I add this command to test Laferrari branch
+
             InitializeComponent();
            trafficLight1.Start();
         }
